@@ -1,0 +1,13 @@
+img{
+	width:75px;
+}
+.inside{
+	padding: 0;
+}
+.enemies_box{
+	border: 1px solid black;
+}
+.jumbotron{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
